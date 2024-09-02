@@ -1,0 +1,298 @@
+[
+    {
+      "questionNo": "Q1.",
+      "question": "Where does \"ay\" usually appear in a word? ",
+      "Q_sound":"",
+      "options": [
+        {
+          "text": "At the beginning",
+          "audio": ""
+        },
+        {
+          "text": "In the middle",
+          "audio": ""
+        },
+        {
+          "text": "At the end",
+          "audio": ""
+        },
+        {
+          "text": "Anywhere",
+          "audio": ""
+        }
+      ],
+      "correct": 2
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "What sound do both \"ai\" and \"ay\" make? ",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "Short A",
+            "audio": ""
+          },
+          {
+            "text": "Long A",
+            "audio": ""
+          },
+          {
+            "text": "Short E",
+            "audio": ""
+          },
+          {
+            "text": "Long E",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q3. ",
+        "question": "Hear the word and choose the correct spelling:",
+        "Q_sound":"./sound/train.mp3",
+        "options": [
+          {
+            "text": "Rain",
+            "audio": ""
+          },
+          {
+            "text": "Train",
+            "audio": ""
+          },
+          {
+            "text": "Terrain",
+            "audio": ""
+          }
+        ],
+        "correct": 1,
+        "secondImg":"./images/train.jpg"
+      },
+      {
+        "questionNo": "Q4.",
+        "question": "Hear the word and complete the spelling D _ _:",
+        "Q_sound":"./sound/day.mp3",
+        "options": [
+          {
+            "text": "ay",
+            "audio": ""
+          },
+          {
+            "text": "ai",
+            "audio": ""
+          }
+        ],
+        "correct": 0,
+        "secondImg":"./images/day.jpg"
+      },{
+        "questionNo": "Q5.",
+        "question": "Hear the word and choose the correct spelling:",
+        "Q_sound":"./sound/play.mp3",
+        "options": [
+          {
+            "text": "Lay",
+            "audio": ""
+          },
+          {
+            "text": "Ply",
+            "audio": ""
+          },
+          {
+            "text": "Play",
+            "audio": ""
+          }
+        ],
+        "correct": 2,
+        "secondImg":"./images/play.jpg"
+      },
+      
+      {
+        "questionNo": "Q6.",
+        "question": "Hear the word and complete the spelling: _W_M. ",
+        "Q_sound":"./sound/swim.mp3",
+        "options": [
+          {
+            "text": "CI",
+            "audio": ""
+          },
+          {
+            "text": "SI",
+            "audio": ""
+          },
+          {
+            "text": "ES",
+            "audio": ""
+          }
+        ],
+        "correct": 1,
+        "secondImg":"./images/swim.jpg"
+      },
+      {
+        "questionNo": "Q7.",
+        "question": " Hear the word: In this word, where is the \"ai\"",
+        "Q_sound":"./sound/paint.mp3",
+        "options": [
+          {
+            "text": "At the beginning",
+            "audio": ""
+          },
+          {
+            "text": "In the middle",
+            "audio": ""
+          },
+          {
+            "text": "At the end",
+            "audio": ""
+          }
+        ],
+        "correct": 1,
+        "secondImg":"./images/paint.jpg"
+      },
+      {
+        "questionNo": "Q8.",
+        "question": "Which word is spelled correctly?",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "Plaay",
+            "audio": ""
+          },
+          {
+            "text": "Plai",
+            "audio": ""
+          },
+          {
+            "text": "Play",
+            "audio": ""
+          },
+          {
+            "text": "Pley",
+            "audio": ""
+          }
+        ],
+        "correct": 2
+      },
+      {
+        "questionNo": "Q9.",
+        "question": "What's the correct spelling? ",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "Raine",
+            "audio": ""
+          },
+          {
+            "text": "Rain",
+            "audio": ""
+          },
+          {
+            "text": "Rayn",
+            "audio": ""
+          },
+          {
+            "text": "Rayne",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q10.",
+        "question": "Hear the Word, where is the \"ai\" sound?",
+        "Q_sound":"./sound/train.mp3",
+        "options": [
+          {
+            "text": "At the beginning",
+            "audio": ""
+          },
+          {
+            "text": "In the middle",
+            "audio": ""
+          }
+          ,
+          {
+            "text": "In the end",
+            "audio": ""
+          },
+          {
+            "text": "There is no \"ai\" sound",
+            "audio": ""
+          }
+        ],
+        "correct": 1,
+        "secondImg":"./images/train.jpg"
+      },
+      {
+        "questionNo": "Q11.",
+        "question": "What's the correct spelling?",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "Todai",
+            "audio": ""
+          },
+          {
+            "text": "Today",
+            "audio": ""
+          },
+          {
+            "text": "Todaay",
+            "audio": ""
+          },
+          {
+            "text": "Tooday",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q12.",
+        "question": "Which word is not spelled correctly?",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "Way",
+            "audio": ""
+          },
+          {
+            "text": "Say",
+            "audio": ""
+          },
+          {
+            "text": "Dai",
+            "audio": ""
+          },
+          {
+            "text": "May",
+            "audio": ""
+          }
+        ],
+        "correct": 2
+      },{
+        "questionNo": "Q13.",
+        "question": "Which word has the same sound as:",
+        "Q_sound":"./sound/play.mp3",
+        "options": [
+          {
+            "text": "Plaid ",
+            "audio": ""
+          },
+          {
+            "text": " Said",
+            "audio": ""
+          },
+          {
+            "text": "Paid ",
+            "audio": ""
+          },
+          {
+            "text": "Slay",
+            "audio": ""
+          }
+        ],
+        "correct": 3,
+        "secondImg":"./images/play.jpg"
+      }
+  ]
+  

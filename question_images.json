@@ -1,0 +1,128 @@
+[
+  {
+    "questionNo": "Q14.",
+    "question": "Which word has the \"ai\" sound? ",
+    
+    "optionsImages": [
+      "./images/1.jpg",
+      "./images/2.jpg",
+      "./images/3.jpg",
+      "./images/4.jpg"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "./sound/cat.mp3",
+      "./sound/rain.mp3",
+      "./sound/dog.mp3",
+      "./sound/sun.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q15.",
+    "question": " Which word ends with \"ay\"? ",
+    
+    "optionsImages": [
+      "./images/5.jpg",
+      "./images/6.jpg",
+      "./images/7.jpg",
+      "./images/8.jpg"
+    ],
+    "correct": 2,
+    "optionsAudio": [
+      "./sound/pain.mp3",
+      "./sound/main.mp3",
+      "./sound/play.mp3",
+      "./sound/sail.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q16.",
+    "question": " n which word does \"ai\" appear in the middle? ",
+    
+    "optionsImages": [
+      "./images/9.jpg",
+      "./images/10.jpg",
+      "./images/11.jpg",
+      "./images/12.jpg"
+    ],
+    "correct": 0,
+    "optionsAudio": [
+      "./sound/wait.mp3",
+      "./sound/air.mp3",
+      "./sound/yay.mp3",
+      "./sound/pay.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Which word doesn't follow the \"ai\" or \"ay\" rules?",
+    
+    "optionsImages": [
+      "./images/13.jpg",
+      "./images/14.jpg",
+      "./images/15.jpg",
+      "./images/16.jpg"
+    ],
+    "correct": 3,
+    "optionsAudio": [
+      "./sound/say.mp3",
+      "./sound/pain.mp3",
+      "./sound/rain.mp3",
+      "./sound/dry.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Which word has \"ay\" at the end? ",
+    
+    "optionsImages": [
+      "./images/17.jpg",
+      "./images/18.jpg",
+      "./images/19.jpg",
+      "./images/20.jpg"
+    ],
+    "correct": 3,
+    "optionsAudio": [
+      "./sound/paint.mp3",
+      "./sound/main.mp3",
+      "./sound/sail.mp3",
+      "./sound/stay.mp3"
+    ]
+  },{
+    "questionNo": "Q19.",
+    "question": "Which word uses \"ai\" correctly? ",
+    "optionsImages": [
+      "./images/8.jpg",
+      "./images/tail.jpg",
+      "./images/mail.jpg",
+      "./images/all.jpg"
+    ],
+    "optionsAudio": [
+      "./sound/sail.mp3",
+      "./sound/tail.mp3",
+      "./sound/mail.mp3",
+      ""
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q20.",
+    "question": " Pick the odd one out:",
+    
+    "optionsImages": [
+      "./images/21.jpg",
+      "./images/22.jpg",
+      "./images/23.jpg",
+      "./images/24.jpg"
+    ],
+    "correct": 2,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+      
+  ]
+  
